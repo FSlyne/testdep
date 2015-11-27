@@ -1,2 +1,4 @@
 This is file C
 Staging edit
+This is c.txt
+added by stage
