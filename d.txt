@@ -1,0 +1,2 @@
+This is file d.txt
+Edited in development branch
